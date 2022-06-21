@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 1250,
     "timeDay": 1208,
     "timeWeek": 1167,
     "timeMonth": 1146,
-    "timeYear": 1268,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2022-01-02": 393,
       "2022-01-01": 1081
@@ -25,18 +25,19 @@
     "url": "https://mattermost.gsi.de",
     "icon": "https://favicons.githubusercontent.com/mattermost.gsi.de",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 899,
-    "timeDay": 901,
-    "timeWeek": 925,
+    "timeDay": 932,
+    "timeWeek": 930,
     "timeMonth": 975,
     "timeYear": 906,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-06": 36
     }
   },
