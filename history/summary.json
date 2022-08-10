@@ -4,7 +4,7 @@
     "url": "https://www.gsi.de",
     "icon": "https://favicons.githubusercontent.com/www.gsi.de",
     "slug": "gsi-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1097,
     "timeYear": 1261,
     "dailyMinutesDown": {
+      "2022-08-10": 0,
       "2022-01-02": 393,
       "2022-01-01": 1081
     }
