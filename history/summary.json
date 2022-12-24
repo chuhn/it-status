@@ -30,9 +30,9 @@
     "url": "https://mattermost.gsi.de",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.gsi.de.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -42,6 +42,7 @@
     "timeMonth": 843,
     "timeYear": 922,
     "dailyMinutesDown": {
+      "2022-12-24": 0,
       "2022-09-02": 45,
       "2022-06-21": 286,
       "2022-05-06": 36
