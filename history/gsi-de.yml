@@ -1,7 +1,7 @@
 url: https://www.gsi.de
-status: up
-code: 200
-responseTime: 895
-lastUpdated: 2024-07-27T02:25:31.305Z
+status: down
+code: 500
+responseTime: 1043
+lastUpdated: 2024-07-27T07:06:10.766Z
 startTime: 2021-05-11T17:13:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
