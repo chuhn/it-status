@@ -6,15 +6,15 @@
     "slug": "gsi-de",
     "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "78.74%",
-    "uptimeWeek": "77.67%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "77.84%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "99.43%",
-    "time": 1277,
-    "timeDay": 1523,
+    "time": 1278,
+    "timeDay": 1598,
     "timeWeek": 1353,
-    "timeMonth": 1323,
-    "timeYear": 1283,
+    "timeMonth": 1330,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2025-07-23": 290,
       "2025-07-22": 270,
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 969,
-    "timeDay": 724,
-    "timeWeek": 1070,
-    "timeMonth": 1034,
-    "timeYear": 969,
+    "time": 970,
+    "timeDay": 1360,
+    "timeWeek": 1159,
+    "timeMonth": 1052,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2024-11-07": 25
     }
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 496,
-    "timeWeek": 260,
-    "timeMonth": 304,
-    "timeYear": 305,
+    "timeDay": 326,
+    "timeWeek": 265,
+    "timeMonth": 302,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2024-08-24": 18
     }
