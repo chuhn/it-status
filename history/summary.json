@@ -4,14 +4,14 @@
     "url": "https://www.gsi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.gsi.de.ico",
     "slug": "gsi-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "79.45%",
+    "uptimeDay": "82.72%",
     "uptimeWeek": "75.09%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "99.22%",
-    "time": 1270,
-    "timeDay": 1330,
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "99.23%",
+    "time": 1271,
+    "timeDay": 1333,
     "timeWeek": 1227,
     "timeMonth": 1276,
     "timeYear": 1265,
@@ -28,7 +28,7 @@
       "2025-07-29": 315,
       "2025-07-28": 300,
       "2025-07-27": 262,
-      "2025-07-26": 246
+      "2025-07-26": 212
     }
   },
   {
