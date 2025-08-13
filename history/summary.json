@@ -6,13 +6,13 @@
     "slug": "gsi-de",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "75.77%",
-    "uptimeWeek": "70.35%",
-    "uptimeMonth": "88.69%",
+    "uptimeDay": "77.07%",
+    "uptimeWeek": "70.56%",
+    "uptimeMonth": "88.73%",
     "uptimeYear": "99.06%",
-    "time": 1269,
-    "timeDay": 1181,
-    "timeWeek": 1257,
+    "time": 1270,
+    "timeDay": 1163,
+    "timeWeek": 1258,
     "timeMonth": 1271,
     "timeYear": 1265,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
       "2025-08-04": 186,
       "2025-08-03": 486,
       "2025-08-02": 346,
-      "2025-08-01": 109
+      "2025-08-01": 90
     }
   },
   {
