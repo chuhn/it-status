@@ -6,17 +6,16 @@
     "slug": "gsi-de",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "84.27%",
-    "uptimeMonth": "91.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.02%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.32%",
     "time": 1251,
-    "timeDay": 1134,
+    "timeDay": 948,
     "timeWeek": 1277,
-    "timeMonth": 1203,
+    "timeMonth": 1205,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-09-11": 11,
       "2025-09-09": 206,
       "2025-09-08": 296,
       "2025-09-07": 292,
@@ -28,7 +27,7 @@
       "2025-09-01": 500,
       "2025-08-31": 247,
       "2025-08-30": 258,
-      "2025-08-29": 26
+      "2025-08-29": 46
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 959,
-    "timeDay": 802,
-    "timeWeek": 928,
-    "timeMonth": 874,
+    "time": 958,
+    "timeDay": 596,
+    "timeWeek": 919,
+    "timeMonth": 863,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-08-07": 107,
@@ -64,10 +63,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 307,
-    "timeWeek": 327,
-    "timeMonth": 328,
-    "timeYear": 305,
+    "timeDay": 379,
+    "timeWeek": 320,
+    "timeMonth": 329,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2025-08-14": 21
     }
