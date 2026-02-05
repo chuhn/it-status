@@ -1,7 +1,7 @@
 url: https://mattermost.gsi.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-05T10:57:09.697Z
+status: up
+code: 200
+responseTime: 5066
+lastUpdated: 2026-02-05T13:35:07.023Z
 startTime: 2021-05-11T17:13:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
